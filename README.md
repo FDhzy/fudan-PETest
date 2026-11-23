@@ -14,9 +14,9 @@
 
 ## 🚀 快捷入口
 
-### [👉 点击这里，在线使用](https://fdhzy.github.io/PEtest/)
+### [👉 点击这里，在线使用](https://fdhzy.github.io/fudan-PETest/)
 
-[在线查询](https://fdhzy.github.io/PEtest/) · [离线文件](./index.html) · [下载完整 ZIP](https://github.com/FDhzy/PEtest/archive/refs/heads/main.zip) · [本项目 GitHub](https://github.com/FDhzy/PEtest)
+[在线查询](https://fdhzy.github.io/fudan-PETest/) · [离线文件](./index.html) · [下载完整 ZIP](https://github.com/FDhzy/fudan-PETest/archive/refs/heads/main.zip) · [本项目 GitHub](https://github.com/FDhzy/fudan-PETest)
 
 ## 📖 使用方式
 
@@ -27,7 +27,7 @@
 
 ### 🌐 在线使用
 
-1. 打开 **[查询网页](https://fdhzy.github.io/PEtest/)**。
+1. 打开 **[查询网页](https://fdhzy.github.io/fudan-PETest/)**。
 2. 在搜索框输入题干或关键词，查看匹配结果。
 3. 点击题干或「查看详情」，查看完整题目、已有选项和来源。
 
@@ -43,7 +43,7 @@
 2. 将文件保存为 `index.html`（文件后缀为 `.html`）。
 3. 在电脑上双击文件，或右键选择「打开方式」，使用 Edge、Chrome 等浏览器打开。
 
-也可以 **[下载完整 ZIP](https://github.com/FDhzy/PEtest/archive/refs/heads/main.zip)**，解压后打开其中的 `index.html`。
+也可以 **[下载完整 ZIP](https://github.com/FDhzy/fudan-PETest/archive/refs/heads/main.zip)**，解压后打开其中的 `index.html`。
 
 题库和新增提纲已经包含在这个 HTML 文件里，下载后用浏览器打开就能使用。题库与提纲检索可完全离线使用；离线版不会自动更新，有新版时可以重新下载。
 
@@ -95,7 +95,7 @@ PEtest 主要做了查询页面的整理与开发，题库资料来自原项目�
 
 ## 💬 反馈与补充
 
-如果发现题目有误，或者使用时遇到问题，欢迎在 **[Issues](https://github.com/FDhzy/PEtest/issues)** 留言。也欢迎补充缺失的选项；附上题干和资料来源，会更方便一起核对。
+如果发现题目有误，或者使用时遇到问题，欢迎在 **[Issues](https://github.com/FDhzy/fudan-PETest/issues)** 留言。也欢迎补充缺失的选项；附上题干和资料来源，会更方便一起核对。
 
 希望这个工具能为大家查题省一些时间，祝考试顺利。
 
